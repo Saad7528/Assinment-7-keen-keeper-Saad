@@ -1,9 +1,12 @@
 import React from 'react';
+import Header from '../Header/Header';
+import StatsSection from '../StatsSection/StatsSection';
 
 const HomePage = () => {
     return (
         <div>
-            <h2>This is Home page</h2>
+            <Header/>
+            {/* <StatsSection/> */}
         </div>
     );
 };
