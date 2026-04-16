@@ -2,10 +2,8 @@ import React, { useState } from 'react';
 import { Home, Clock, LineChart } from 'lucide-react';
 
 const Navbar = () => {
-  // শুরুতে 'Home' অ্যাকটিভ থাকবে
   const [activeTab, setActiveTab] = useState('Home');
 
-  // মেনু আইটেমগুলোর একটি অ্যারে তৈরি করা হলো যাতে কোড ক্লিন থাকে
   const navItems = [
     { id: 'Home', label: 'Home', Icon: Home },
     { id: 'Timeline', label: 'Timeline', Icon: Clock },
