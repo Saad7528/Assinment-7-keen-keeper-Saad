@@ -42,7 +42,6 @@ const TimeLine = () => {
           className="border border-gray-200 rounded-md px-3 py-2 text-sm text-gray-500 bg-white focus:outline-none focus:ring-1 focus:ring-gray-300 w-48 shadow-sm cursor-pointer"
         >
           <option value="all">Filter timeline</option>
-          <option value="meetup">Meetup</option>
           <option value="text">Text</option>
           <option value="video">Video</option>
           <option value="call">Call</option>
