@@ -3,7 +3,7 @@
 [![Live](https://img.shields.io/badge/Live-blueviolet?style=for-the-badge)](https://assinment-7-keen-keeper-saad.netlify.app/)
 
 ## 📖 Description
-**Keen Keeper** is a modern, responsive web application built to help users efficiently manage, track, and organize their data. Whether it's tracking tasks, keeping inventory, or managing schedules, this platform provides a seamless experience. 
+**Keen Keeper** is a great personal relationship management platform that helps users stay in touch with their loved ones and friends. With this dashboard, you can easily track your total number of friends, who you haven't spoken to in a while, and who needs urgent attention (Overdue/Need Attention). It's a great tool to keep your relationships strong in a busy life. 
 
 **Live Demo:** [View Keen Keeper Here](https://assinment-7-keen-keeper-saad.netlify.app/)
 
